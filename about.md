@@ -8,6 +8,9 @@ titles:
 key: page-about
 ---
 
+Hi, IcyFlamer!
+Forked from TeXt theme.
+Gai wang zhan zan wei xiu gai wan cheng. (Hua ji)
 Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 
 {% highlight javascript %}
