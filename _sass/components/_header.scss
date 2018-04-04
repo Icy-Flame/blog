@@ -24,11 +24,10 @@
       display: inline-block;
 	  color: #666;
       //font-size: map-get($base, font-size-h4);
-	  font-size: 24px;
-      @include media-breakpoint-down(s) {
-        //font-size: map-get($base, font-size-h4-small);
-		font-size: 24px;
-      }
+	  font-size: 20px;
+      /*@include media-breakpoint-down(s) {
+        font-size: map-get($base, font-size-h4-small);
+      }*/
     }
     @include media-breakpoint-down(s) {
       float: none;
