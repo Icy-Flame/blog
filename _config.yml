@@ -15,7 +15,7 @@ text_color_theme: default #eg: default | dark | forest | ocean | chocolate | ora
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /blog
-title: IcyFlame Blog
+title: IcyFlame Blog 123
 description: > #this means to ignore newlines until "nav_lists:"
   IcyFlame's Blog
 
