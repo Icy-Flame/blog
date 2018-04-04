@@ -1,19 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">  <image id="image0" width="24" height="24" x="0" y="0"
-    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABGlBMVEUAAAAAsfEAsPAAsfEA
-sfEAsfIAsPEAsPEAsfEAsPEAsfAAr/AAr/AAsfEAsfEAsPAAsfEAsfIAsPAAsPAAsPAAsPAAsPAA
-sPAAsvMAsPAAr+4AsfEAsPAAsPEAsvMAsPEAsfEAsfEAsvIAsfEAsPEAsfEAsvIAsvEAsfEAsfEA
-sfEAsfEAsfEAsfIAsfIAsfEAsPEAsPEAsfIAsfEAsPEAsfIAsfEAsvMAsfIAsPEAsfIAsfAAsvIA
-sPEAsfIAsPEAsfIAsfEAsPEAsfIAsvIAsfEAsvIAru0AsfEAsfEAsfIAsfEAsvIAsfEAsfEAsfIA
-svEAsfEAsPEAsfIAsPEAsPEAsPEAsvIAsfEAsPAAsPAAsfIAsPD////ETc+cAAAAXHRSTlMAVPjg
-Ez7HzLMMARMXCl786DiA/se1u+ow/QFk++crAWviKQFz3CIG0HAFob4QBZfFEgSPzRPTGGjZHgOB
-1RgEic0XA5TGFARyAoLUHHjaIQFx4STY0OUqV/riMaYkbkcAAAABYktHRF2d3zABAAAAB3RJTUUH
-4gMfDAo25M2pRwAAAL5JREFUKM+FkkUOAzEQBB1mdGjDzMzMzIzz/3ckUsB7GCl1slySe1pjQl4I
-hMAQickPiVTGkCvIf5Qq9Q8NX2h1LEJv4AkjNZk/WIRWG09wku/R7nC63JggHi/n82OCBIJcKIwJ
-EolCDBPxBCRTiEhnIJtDMvIFKJawqWK0XEF7VLlaHRWNJm210YKdLvT6aMHBEEZjtOAkClNMzOZ0
-sUTEbEXXGyRju9PtD2wqOH6/wsl5vrBnrze22vvjffcEAW4kM7c5iEYAAAAldEVYdGRhdGU6Y3Jl
-YXRlADIwMTgtMDMtMzFUMTI6MTA6NTQrMDg6MDDYWLwWAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE4
-LTAzLTMxVDEyOjEwOjU0KzA4OjAwqQUEqgAAAABJRU5ErkJggg==" />
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="48.000000pt" height="48.000000pt" viewBox="0 0 48.000000 48.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,48.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M30 305 l0 -175 40 0 40 0 0 175 0 175 -40 0 -40 0 0 -175z"/>
+<path d="M140 240 l0 -240 45 0 45 0 0 95 0 95 110 0 110 0 0 45 0 45 -110 0
+-110 0 0 55 0 55 110 0 110 0 0 45 0 45 -155 0 -155 0 0 -240z"/>
+<path d="M30 40 l0 -40 40 0 40 0 0 40 0 40 -40 0 -40 0 0 -40z"/>
+</g>
 </svg>
