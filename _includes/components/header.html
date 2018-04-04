@@ -5,7 +5,7 @@
     {%- assign __path = site.paths.base | default: site.data.variables.default.paths.base  -%}
     {%- include snippets/get-nav-url.html -%}
     {%- if site.title -%}
-      <a style="font-size: 20px;" title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
+      <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
     {%- endif -%}
     </div>
     <nav>
