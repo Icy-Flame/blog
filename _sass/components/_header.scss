@@ -22,10 +22,9 @@
     }
     &>a {
       display: inline-block;
-      font-size: map-get($base, font-size-h4);
-	  font-size: 28px;
+      font-size: map-get($base, font-size-h2);
       @include media-breakpoint-down(s) {
-        font-size: map-get($base, font-size-h4-small);
+        font-size: map-get($base, font-size-h2-small);
       }
     }
     @include media-breakpoint-down(s) {
