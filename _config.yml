@@ -70,7 +70,7 @@ gitalk:
   # owner:  #Github repo owner
   # admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
     # - owner
-	
+
 ## Comment system (Changyan)
 # IcyFlame Custom
 changyan:
