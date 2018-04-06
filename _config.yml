@@ -45,11 +45,11 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 author:
   name: Someone
   email: icy-flame@qq.com  #your Email address e.g. someone@site.com
-  # facebook:  #your Facebook username
-  # twitter:  #your Twitter username
-  # github:  #your GitHub username
-  # googleplus:  #your Google+ username
-  # weibo:  #your Weibo username
+  facebook: icyflame01  #your Facebook username
+  twitter: icyflame01  #your Twitter username
+  github: Icy-Flame  #your GitHub username
+  googleplus: 2419029544@qq.com  #your Google+ username
+  weibo: Boredicxxxxxxx  #your Weibo username
   # douban:  #your Douban username
   # linkedin:  #your Linkedin username
 
@@ -70,6 +70,12 @@ gitalk:
   # owner:  #Github repo owner
   # admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
     # - owner
+	
+## Comment system (Changyan)
+# IcyFlame Custom
+changyan:
+  appID: cytvnplzp
+  conf: prod_53773fc601d8de4e59ad0e645e725f2e
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
