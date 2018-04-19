@@ -9,17 +9,16 @@ key: page-about
 ---
 
 Hi, IcyFlamer!
-Forked from TeXt theme.
-Gai wang zhan zan wei xiu gai wan cheng. (Hua ji)
-Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
+这个博客的主题是[TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)，  
+嗯，这博客很垃圾，对吧？
+小学生一枚，这文笔当然是「千奇百怪」（滑稽）
+你没事可以去[主站](icyflame.cn)玩玩
 
-## Skills
+## 技能
 
-- HTML5, CSS3(SASS), JavaScript(ES2017, Node.js), Bash(Zsh)
-- React, React Native, Vue.js
-- gulp, webpack
-- Adobe Photoshop, Sketch
+- HTML5, CSS3, JavaScript
+- Adobe Photoshop, Camtasia, Office
+- C#
+
+当然，都是入门级的（滑稽）
